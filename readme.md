@@ -20,7 +20,7 @@
 ## 系统结构
 
 ```
-material-management-system/
+wenjianguanli/
 ├── src/
 │   ├── client/            # 前端React应用
 │   │   └── src/
